@@ -1,5 +1,7 @@
 # Restaurants and bars
 
+## Chicago, IL
+- [Delilah's](https://www.delilahschicago.com/) 
 
 ## Washington, DC
 
